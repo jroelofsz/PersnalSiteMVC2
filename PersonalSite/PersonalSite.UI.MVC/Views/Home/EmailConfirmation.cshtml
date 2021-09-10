@@ -1,0 +1,12 @@
+﻿@model PersonSiteMVC.UI.MVC.Models.ContactViewModel
+@{
+    ViewBag.Title = "Email Confirmation";
+}
+
+<div class="container">
+    <h1>@ViewBag.Title</h1>
+    <h3><strong class="text-danger">Success!</strong> Your email has been sent!</h3>
+
+    <h5>Thank you for contacting me! I will reach out to <strong class="text-danger">@Model.Email</strong> within 24 - 48 hours.</h5>
+
+</div>
