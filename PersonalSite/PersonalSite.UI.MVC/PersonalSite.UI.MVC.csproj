@@ -291,6 +291,7 @@
     <Content Include="Content\images\testimonials1.png" />
     <Content Include="Content\images\thumbnails\dungeonThumbnail.png" />
     <Content Include="Content\images\thumbnails\FED1StudioThumb.jpg" />
+    <Content Include="Content\images\thumbnails\storefront.png" />
     <Content Include="Content\images\ttab.png" />
     <Content Include="Content\js\bootstrap.min.js" />
     <Content Include="Content\js\html5shiv.js" />
