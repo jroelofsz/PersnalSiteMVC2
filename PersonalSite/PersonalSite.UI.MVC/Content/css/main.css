@@ -2345,10 +2345,10 @@ shortcodes page css
 #aboutMe .container img {
     margin: 15px;
     border-radius: 50%;
-    width: 200px;
+    width: 50%;
     margin: 5px auto;
     height: auto;
-    margin-left: 470px;
+    margin-left: 25%;
 }
 
 .form-group .form-control {
