@@ -238,11 +238,14 @@
     <Content Include="Content\images\service\client3.png" />
     <Content Include="Content\images\service\image_bg.png" />
     <Content Include="Content\images\service\logo.png" />
+    <Content Include="Content\images\skills-background.jpg" />
     <Content Include="Content\images\slider\bg1.jpg" />
     <Content Include="Content\images\slider\bg2.jpg" />
     <Content Include="Content\images\thumbnails\dungeonThumbnail.png" />
     <Content Include="Content\images\thumbnails\FED1StudioThumb.jpg" />
+    <Content Include="Content\images\thumbnails\reactTodo.png" />
     <Content Include="Content\images\thumbnails\storefront.png" />
+    <Content Include="Content\images\thumbnails\todoApi.png" />
     <Content Include="Content\js\bootstrap.min.js" />
     <Content Include="Content\js\html5shiv.js" />
     <Content Include="Content\js\jquery.isotope.min.js" />
