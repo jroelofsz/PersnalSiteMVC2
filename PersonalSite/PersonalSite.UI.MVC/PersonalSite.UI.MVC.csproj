@@ -131,6 +131,14 @@
     <Content Include="Content\css\animate.min.css" />
     <Content Include="Content\css\bootstrap.min.css" />
     <Content Include="Content\css\custom.css" />
+    <Content Include="Content\css\customJqueryCss\jquery-ui.css" />
+    <Content Include="Content\css\customJqueryCss\jquery-ui.js" />
+    <Content Include="Content\css\customJqueryCss\jquery-ui.min.css" />
+    <Content Include="Content\css\customJqueryCss\jquery-ui.min.js" />
+    <Content Include="Content\css\customJqueryCss\jquery-ui.structure.css" />
+    <Content Include="Content\css\customJqueryCss\jquery-ui.structure.min.css" />
+    <Content Include="Content\css\customJqueryCss\jquery-ui.theme.css" />
+    <Content Include="Content\css\customJqueryCss\jquery-ui.theme.min.css" />
     <Content Include="Content\css\font-awesome.css" />
     <Content Include="Content\css\font-awesome.min.css" />
     <Content Include="Content\css\icomoon.css" />
@@ -244,6 +252,7 @@
     <Content Include="Content\images\thumbnails\dungeonThumbnail.png" />
     <Content Include="Content\images\thumbnails\FED1StudioThumb.jpg" />
     <Content Include="Content\images\thumbnails\reactTodo.png" />
+    <Content Include="Content\images\thumbnails\SATThumbnail.png" />
     <Content Include="Content\images\thumbnails\storefront.png" />
     <Content Include="Content\images\thumbnails\todoApi.png" />
     <Content Include="Content\js\bootstrap.min.js" />
@@ -272,6 +281,7 @@
     <Content Include="Content\fonts\icomoon.eot" />
     <Content Include="Content\fonts\icomoon.ttf" />
     <Content Include="Content\fonts\icomoon.woff" />
+    <Content Include="Content\assets\JRoelofszResume.docx" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />

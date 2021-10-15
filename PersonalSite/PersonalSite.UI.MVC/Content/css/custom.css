@@ -274,3 +274,9 @@ ul {
 .mb50 {
     margin-bottom: 50px;
 }
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
+    background: #EC5538;
+    border: 1px solid #EC5538;
+    font-weight:normal;
+    color: #fff;
+}
